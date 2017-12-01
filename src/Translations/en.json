@@ -1,0 +1,13 @@
+{
+    "USERNAME": "username",
+    "USERNAME_E": "username(email)",
+    "FORGET_PWD": "Forgot password",
+    "REGISTER": "Register",
+    "PASSWORD": "Password",
+    "LOGIN": "Login",
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "PHONE": "Phone",
+    "PLEASE_WAIT": "Please wait..",
+    "SIGNUP": "Sign up"
+}

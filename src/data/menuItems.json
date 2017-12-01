@@ -1,0 +1,63 @@
+{
+	"addItems": [{
+			"name": "Add item1",
+			"route": "ZIG.AddItemDummy",
+			"icon": "files-o",
+			"iconPackage": "fontAwesome",
+			"bg": "#29783B"
+		},
+		{
+			"name": "Add item2",
+			"route": "ZIG.AddItemDummy",
+			"icon": "users",
+			"iconPackage": "fontAwesome",
+			"bg": "#29783B"
+		},
+		{
+			"name": "Add item3",
+			"route": "ZIG.AddItemDummy",
+			"icon": "institution",
+			"iconPackage": "fontAwesome",
+			"bg": "#29783B"
+		}
+	],
+	"viewItems": [{
+			"name": "View item1",
+			"route": "ZIG.ViewItemDummy",
+			"icon": "files-o",
+			"iconPackage": "fontAwesome",
+			"bg": "#29783B"
+		},
+		{
+			"name": "View item2",
+			"route": "ZIG.ViewItemDummy",
+			"icon": "users",
+			"iconPackage": "fontAwesome",
+			"bg": "#29783B"
+		},
+		{
+			"name": "View item3",
+			"route": "ZIG.ViewItemDummy",
+			"icon": "institution",
+			"iconPackage": "fontAwesome",
+			"bg": "#29783B"
+		}
+	],
+	"flatMenuItems": [
+		{
+			"name": "LOGOUT",
+			"route": "LC.logout",
+			"icon": "exit-to-app",
+			"iconPackage": "materialIcons",
+			"bg": "#29783B",
+			"type": "function"
+		},
+		{
+			"name": "About US",
+			"route": "LC.aboutUs",
+			"icon": "info-circle",
+			"iconPackage": "fontAwesome",
+			"bg": "#29783B"
+		}
+	]
+};
