@@ -63,16 +63,7 @@ Alert.alert( 'Error', 'Please enter username' );
 };
 
 upadateState(key, value) {
-	if (key === 'identity') {
-	this.setState({ identity: value });
-	}
-	if (key === 'password') {
-	this.setState({ password: value });
-	}
-	if (key === 'secureTextEntry') {
-	this.setState({ secureTextEntry: !this.state.secureTextEntry });
-	}
-	//console.log(this.state);
+	this.setState({ [key]: value });
 };
 
 renderButton() {
