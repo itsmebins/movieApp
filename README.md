@@ -1,9 +1,7 @@
 # movieapp [![Paypal Donate](https://img.shields.io/badge/paypal-donate-green.svg?style=flat)](https://www.paypal.me/junedomingo)
 Discover Movies and TV shows
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/rLaZTxWeQsGAsDnqWnPDEK7u/junedomingo/movieapp'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/rLaZTxWeQsGAsDnqWnPDEK7u/junedomingo/movieapp.svg' />
-</a>
+
 
 ![movieapp-screenshots_big_iphone_](https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png)
 
